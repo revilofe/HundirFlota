@@ -2,7 +2,7 @@
 
 **ID actividad:** PROG-2425-U3-001
 
-**Agrupamiento de la actividad**: Individual/Parejas
+**Agrupamiento de la actividad**: Parejas
 
 ---
 
